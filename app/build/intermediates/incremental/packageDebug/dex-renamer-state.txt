@@ -1,0 +1,7 @@
+#Tue Aug 29 20:19:02 CEST 2017
+base.0=E\:\\Projekty Android Studio\\Maze\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_40cc32447a8814ede97b457b962dd16b429f6673
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Projekty Android Studio\\Maze\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1dc9ee65460f46b8951b50c2b7843405c658d7ff\\classes.dex
+base.1=E\:\\Projekty Android Studio\\Maze\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1dc9ee65460f46b8951b50c2b7843405c658d7ff
+file.0=E\:\\Projekty Android Studio\\Maze\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_40cc32447a8814ede97b457b962dd16b429f6673\\classes.dex

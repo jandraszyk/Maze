@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Maze</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="maze_game">MAZE GAME</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="exit">EXIT</string>
+    <string name="level_1">LEVEL 1</string>
+    <string name="level_2">LEVEL 2</string>
+    <string name="level_3">LEVEL 3</string>
+    <string name="level_4">LEVEL 4</string>
+</resources>
