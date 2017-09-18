@@ -1,39 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="26"
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
     build-mode="COLD"
-    density="420dpi"
+    density="hdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1504111853582"
+    timestamp="1505680742235"
     token="-3593427791125782974"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="791" />
+        duration="237" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="85" />
+        duration="11" />
     <task
         name="verifier"
-        duration="8" />
+        duration="2" />
 
     <artifact
         location="E:\Projekty Android Studio\Maze\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
+    <artifact
+        location="E:\Projekty Android Studio\Maze\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1504109850874"
+        timestamp="1505677124925"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\Projekty Android Studio\Maze\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
+        <artifact
+            location="E:\Projekty Android Studio\Maze\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="E:\Projekty Android Studio\Maze\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
@@ -64,17 +70,25 @@
         <artifact
             location="E:\Projekty Android Studio\Maze\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1505680496324"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Projekty Android Studio\Maze\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1504111853582"
+        timestamp="1505680742235"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Projekty Android Studio\Maze\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
+        <artifact
+            location="E:\Projekty Android Studio\Maze\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

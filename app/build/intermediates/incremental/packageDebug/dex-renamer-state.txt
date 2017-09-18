@@ -1,4 +1,4 @@
-#Tue Aug 29 20:19:02 CEST 2017
+#Sun Sep 17 14:32:43 CEST 2017
 base.0=E\:\\Projekty Android Studio\\Maze\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_40cc32447a8814ede97b457b962dd16b429f6673
 renamed.1=classes2.dex
 renamed.0=classes.dex

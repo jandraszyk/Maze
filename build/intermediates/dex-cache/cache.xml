@@ -3,84 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Janek\.android\build-cache\3cd697f07808abda83634fae69a913a3b6b7b18c\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5326f5ec5881e8e64c6680b320a7e6f351576f4e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\.android\build-cache\ab67262eb4c00d82ff984d673e547f8e802f9a25\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03955031503074f67ff982db9fd6a5dc62cd735e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\.android\build-cache\aebacede14c00b4cc1ee5984000edbfff7b29bb7\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dac8d7a66fee94f3ddd54690bf372e1bc398b0f0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\.android\build-cache\16ddf5d1e165e954d4e28a93be4e12703d232a30\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77b00f3adc619c4bacbad7d55bab6efa834f4761\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\.android\build-cache\4fc52188d3b4010c4e20ceec941c7672dc687a17\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80b48569a951b68abd46c3e4d6018d785c3f4d87\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="E:\Projekty Android Studio\Maze\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="fe84f01710ec923d61ac813ec34825863b5bb0bc">
+        sha1="3386beac93b0521639f85d99270163ee860c85ae">
         <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1dc9ee65460f46b8951b50c2b7843405c658d7ff\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_9b669a2b7f2bd3acada5d03a1d5dc1629fd52e92\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\.android\build-cache\e205b837eb4a4cca129e4076828bb0b28cc5224c\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac6720bef1eeeee7f8795f31d17a7fcd1dded511\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\.android\build-cache\2ec6acccb2b333ed4ed15ee45c31618e8afdce80\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c988c02c98a7ff05b0c51c7fe2af1be35b4cffcf\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -90,42 +18,6 @@
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_40cc32447a8814ede97b457b962dd16b429f6673\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\.android\build-cache\1e60c638eb4c4926448b947d1cd9eb9a43783e5f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4099de34eaf7a805a626b7d408a94e779752c76f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\.android\build-cache\e2727e00be7cf13d0b4e003dab3f0d325bf285ae\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac38ed077bcd0b4f37a2cdef79ba9e9772f88e86\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\.android\build-cache\a8ff6bdc6c7db19b16c193f13fac3bead359b286\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a878b9426c21a4bf76573832f9cad0225d280043\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Janek\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="E:\Projekty Android Studio\Maze\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_490b6d3404a631c5543c48a3d638c75075be252f\classes.dex" />
     </item>
 
 </items>

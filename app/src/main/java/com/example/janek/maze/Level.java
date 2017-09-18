@@ -5,7 +5,7 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Rect;
-import android.view.SurfaceView;
+import android.view.View;
 
 import java.io.Closeable;
 import java.io.IOException;
@@ -19,8 +19,8 @@ public class Level {
 
     private final static int levelColumns = 20;
     private final static int levelRows = 26;
-    private  int wallSizeX;
-    private int wallSizeY;
+    private  int wallSizeX = 27;
+    private int wallSizeY = 25;
 
     public final static int path = 0;
     public final static int wall = 1;
@@ -37,9 +37,9 @@ public class Level {
     private int mX;
     private int mY;
 
-    public Level(Activity activity, SurfaceView view){
-        wallSizeX = view.getWidth() / levelColumns;
-        wallSizeY = view.getHeight() / levelRows;
+    public Level(Activity activity, int height,int width){
+        wallSizeX = width / levelColumns;
+        wallSizeY = height / levelRows;
     }
 
     public void setLevel(Activity activity, int currLevel) {

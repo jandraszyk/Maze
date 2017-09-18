@@ -4,6 +4,7 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.view.SurfaceView;
+import android.view.View;
 
 /**
  * Created by Janek on 30.08.2017.
@@ -11,16 +12,16 @@ import android.view.SurfaceView;
 
 public class Ball {
 
-    private SurfaceView currView;
+    private View currView;
     private int mX = 0;
     private int mY = 0;
-    private int mRadius = 20;
+    private int mRadius = 0;
     private int mColor = Color.RED;
     private int mLives = 5;
 
-    public Ball(SurfaceView view) {
+    public Ball(View view) {
         this.currView = view;
-
+        this.mRadius = view.getWidth() / 45;
     }
 
     public void start(){
@@ -43,7 +44,7 @@ public class Ball {
     }
 
     public void updateX (float newX) {
-        mX -= newX;
+        mX += newX;
 
         if(mX + mRadius >= currView.getWidth())
             mX = currView.getWidth() - mRadius;
